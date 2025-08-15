@@ -21,3 +21,5 @@ public class HataliKod : MonoBehaviour
         }
     }
 }
+
+///öylesine yazdım///
