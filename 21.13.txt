@@ -1,0 +1,23 @@
+public class HataliKod : MonoBehaviour
+{
+    void Start()
+    {
+
+        Gameobject player = GameObject.Find("Player");
+
+        
+        transform.position = new Vector3(1, 2);
+
+        
+        Update();
+    }
+
+    void Update()
+    {
+        
+        while (true)
+        {
+            Debug.Log("Bitmeyen döngü!");
+        }
+    }
+}
